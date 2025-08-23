@@ -1,0 +1,3 @@
+[submodule "fall_2025/subMod"]
+	path = fall_2025/subMod
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
